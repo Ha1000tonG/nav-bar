@@ -1,6 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.CSS linguist-detectable=true
-*.sch linguist-detectable=true
-search/index.html linguist-generated=true
-search/style.cdd linguist-generated=true
+*.css linguist-detectable=true
+*.html linguist-detectable=true

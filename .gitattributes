@@ -3,3 +3,4 @@
 *.CSS linguist-detectable=true
 *.sch linguist-detectable=true
 tools/export_bom.py linguist-detectable=false
+search/index.json linguist-generated=true

@@ -2,5 +2,5 @@
 * text=auto
 *.CSS linguist-detectable=true
 *.sch linguist-detectable=true
-tools/export_bom.py linguist-detectable=false
-search/index.json linguist-generated=true
+search/index.html linguist-generated=true
+search/style.cdd linguist-generated=true

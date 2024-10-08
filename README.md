@@ -3,7 +3,7 @@
 ### ✔️ Sobre o projeto
 Neste projeto, explorei o uso de Flexbox e Media Queries no CSS para criar uma navbar totalmente responsivo.  
 O menu hambúrguer é implementado com JavaScript, adicionando interatividade e uma experiência mais rica ao usuário.  
-Otimizando o espaço e facilitando a navegação.
+Otimizando o espaço e facilitando a navegação em telas menores..
 #
 ### Funcionalidades
 * **Responsividade:** A navbar se ajusta automaticamente a diferentes tamanhos de tela.
